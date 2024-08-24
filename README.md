@@ -1,5 +1,5 @@
 ## What’s Up, Choom?✩°｡⋆
-![](https://media.tenor.com/V8PtryS_0JsAAAAM/sasha-yakovleva-sasha.gif)
+![](https://media.tenor.com/V8PtryS_0JsAAAAM/sasha-yakovleva-sasha.gif) ![](https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif) 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mariah Freire
 =====================================================================================================================================
