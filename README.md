@@ -4,14 +4,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mariah Freire
 =====================================================================================================================================
 
-Software Engineer undergrad at PUCRS
+Software engineering student at PUCRS, UX Designer and frontend developer
 ------------------------------------
 
-I'm a hardworking individual with a deep passion for technology and an eagerness for learning. Currently, I'm focusing on expanding my knowledge in frontend development, always looking for ways to practice and improve my skills.
+I'm a hardworking individual with a deep passion for technology and an eagerness for learning. 
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [mahbackesf@gmail.com](mailto:mahbackesf@gmail.com)
-*   🧠  I'm learning React.js
 
 ### Skills 
 <p align="left">
@@ -24,6 +23,3 @@ I'm a hardworking individual with a deep passion for technology and an eagerness
 ### Badges
 
 <a href="https://github.com/mariahbf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahbf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<p align="center">                  
-<img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="1500" />
-</p>
